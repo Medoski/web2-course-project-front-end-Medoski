@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./../style.css">
+    <link rel="icon" href="/docs/img/weblogo.png" type="image/png">
+    <script src="./../js/signin.js" type="module"></script>
+    <title>Sign In</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+          
+            <a href="./../index.html">
+                <img class="logoindex" src="/docs/img/weblogo.png" alt="Logo">
+            </a>
+
+        </nav>
+    </header>
+    <div class="mainFlex">
+
+        <section class="signIn">
+            <h2>Login</h2>
+            <form id="signInForm" class="signInForm">
+
+                <div class="emailFormsignIn">
+                    <label for="emailForm">Email</label>
+                    <input type="text" id="email fnameLogin" name="email">
+                </div>
+
+                <div class="passwordFormsignIn">
+                    <label for="passwordForm">Password</label>
+                    <input type="password" id="password passwordLogin" name="password">
+                </div>
+
+                <input type="submit" value="Sign in">
+            </form>
+            <p class='loginerror' id='loginerror'> Wrong password or email! </p>
+            <p class="already">Not registred yet ? <a href="./signup.html" class="signUpbtn"> Create an account</a></p>
+        </section>
+        
+    </div>
+</body>
+
+</html>
