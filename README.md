@@ -6,13 +6,6 @@
 
 ## Description
 
-For web2 we had to create a full stack website with a working front and backend that are both linked to a database.
-
-I decided to shift to a video game website instead of a movies since i have a bigger passion for video games.
-
-I did a complete overhaul of my design, made it more compact and easier to code because sometimes simplicity is better.
-
-This project includes a login system and bookmark system as seen in the lessons. 
 
 ## Practical links
 
@@ -24,8 +17,8 @@ This project includes a login system and bookmark system as seen in the lessons.
 - Adobe XD Design : 
 ## Login credentials
 
-- Email : admin
-- Password : admin
+- Email : 
+- Password : 
 
 
 ### Frontend used sources
